@@ -42,7 +42,7 @@ This project demonstrates modern Android development practices:
   <img src="[https://github.com/user-attachments/assets/a5322789-2f2c-4489-93d8-da5b9c4c5513](https://github.com/user-attachments/assets/a5322789-2f2c-4489-93d8-da5b9c4c5513)" width="250"/>
 </div>
 
----|
+---
 
 
   ---
