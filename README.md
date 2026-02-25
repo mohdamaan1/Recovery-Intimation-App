@@ -29,18 +29,20 @@ This project demonstrates modern Android development practices:
 * **Background Tasks:** Android Services (for reliable SMS delivery)
 * **Permissions Handling:** Accommodates strict Google Play policies using modern `ActivityResultContracts`.
 
-# 📸 Screenshots
-*(Add your screenshots here later)*
+## 📸 Screenshots
 
-|[Image]  https://github.com/user-attachments/assets/d95aa8bf-1c6f-4130-a456-9656808492ae
-![Image]  https://github.com/user-attachments/assets/4dd5cde3-6d00-4e3c-99e1-8da5ca5149f9
-![Image]  https://github.com/user-attachments/assets/c5f3cd2e-6119-4f7c-bcb2-8b6f45e7774d
-![Image]  https://github.com/user-attachments/assets/b2dccc2b-67f1-4656-8583-e246d55fabad
-![Image]  https://github.com/user-attachments/assets/69369601-8424-4c79-bb8f-3b6cc00206eb
-![Image]  https://github.com/user-attachments/assets/0f05dee6-c1ce-42a1-a67d-de16fd35bd24
-![Image]  https://github.com/user-attachments/assets/a5322789-2f2c-4489-93d8-da5b9c4c5513
+| Main Dashboard | Entry Management | Smart SMS Dialog |
 |:---:|:---:|:---:|
-| **Main Dashboard** | **Entry Management** | **Smart SMS Dialog** |
+| <img src="[https://github.com/user-attachments/assets/d95aa8bf-1c6f-4130-a456-9656808492ae](https://github.com/user-attachments/assets/d95aa8bf-1c6f-4130-a456-9656808492ae)" width="250"/> | <img src="[https://github.com/user-attachments/assets/4dd5cde3-6d00-4e3c-99e1-8da5ca5149f9](https://github.com/user-attachments/assets/4dd5cde3-6d00-4e3c-99e1-8da5ca5149f9)" width="250"/> | <img src="[https://github.com/user-attachments/assets/c5f3cd2e-6119-4f7c-bcb2-8b6f45e7774d](https://github.com/user-attachments/assets/c5f3cd2e-6119-4f7c-bcb2-8b6f45e7774d)" width="250"/> |
+| **Feature / Setting** | **Feature / Setting** | **Permission Dialog** |
+| <img src="[https://github.com/user-attachments/assets/b2dccc2b-67f1-4656-8583-e246d55fabad](https://github.com/user-attachments/assets/b2dccc2b-67f1-4656-8583-e246d55fabad)" width="250"/> | <img src="[https://github.com/user-attachments/assets/69369601-8424-4c79-bb8f-3b6cc00206eb](https://github.com/user-attachments/assets/69369601-8424-4c79-bb8f-3b6cc00206eb)" width="250"/> | <img src="[https://github.com/user-attachments/assets/0f05dee6-c1ce-42a1-a67d-de16fd35bd24](https://github.com/user-attachments/assets/0f05dee6-c1ce-42a1-a67d-de16fd35bd24)" width="250"/> |
+
+<div align="center">
+  <b>Additional Screenshot</b><br>
+  <img src="[https://github.com/user-attachments/assets/a5322789-2f2c-4489-93d8-da5b9c4c5513](https://github.com/user-attachments/assets/a5322789-2f2c-4489-93d8-da5b9c4c5513)" width="250"/>
+</div>
+
+---|
 
 
   ---
